@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+venv/
+.env/
+*.log
+.ipynb_checkpoints/
+.idea/
+credentials.json
+config.yaml
